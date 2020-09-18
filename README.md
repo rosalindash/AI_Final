@@ -1,4 +1,4 @@
-# AI_Final
+# AI_Unsupervised_Learning
 AI Final Project on Unsupervised Learning (SOM)
 
 
